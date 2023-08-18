@@ -1,3 +1,3 @@
 # Basic Face Detection Model
 
-Face detection model only detect one face in an image.
+Face detection model which able to detect one face in an image.
